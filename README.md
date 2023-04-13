@@ -18,7 +18,7 @@ columns.
 The method returns a 1-d NumPy array of labels, one per training sample.
 
 
-# K-Means - Machine learning technique used for classification and regression tasks.
+# K-Means
 Constructor – The constructor receives an argument named k, which dictates the
 number of clusters considered, and max_iter which dictates the maximal number of
 iterations done during the fit stage.
